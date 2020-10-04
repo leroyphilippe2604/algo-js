@@ -36,5 +36,5 @@ function randomizecast(serie) {
   shuffle(serie.cast);
 }
 
-console.log(randomizecast);
+randomizecast(tvserie);
 console.log(tvserie);
